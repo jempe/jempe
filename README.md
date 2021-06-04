@@ -6,11 +6,11 @@ I am a full stack developer but I've focused on A/B Testing since 2014. I've cre
 
 ## I offer the following Services:
 
-**A/B Test Development**
-Shopify themes customization
-Bigcommerce themes customization
-Web Development
-Mobile apps Development (iOs and Android)
+* **A/B Test Development**
+* Shopify themes customization
+* Bigcommerce themes customization
+* Web Development
+* Mobile apps Development (iOs and Android)
 
 ## Programming Languages
 * HTML
@@ -19,18 +19,31 @@ Mobile apps Development (iOs and Android)
 * Golang
 * PHP
 
-If you are interested in hiring me, please send me an email to <a href="contact@jempe.org">contact@jempe.org<a>
+If you are interested in hiring me, please send me an email to <a href="contact@jempe.org">contact@jempe.org<a>.
 
 ### Repos
 This repository is a collection of open source projects, and tools I found useful on my daily professional life.
   
 ***Web Development**
   
-<a href="https://github.com/jempe/whatsapp_button">Whats App Button</a> Script to add a Whats app button to your website
+<a href="https://github.com/jempe/whatsapp_button">Whats App Button</a> Script to add a Whats app button to your website.
+  
+<a href="https://github.com/jempe/gopicam">GoPiCam</a> Web client for RaspiMJPEG. Share the images from your Raspberry Pi Camera through the network.
+  
+<a href="https://github.com/jempe/jempecms">Jempe CMS</a> PHP content management system created with Codeigniter php framework.
+ 
+  
+***QT Apps***
+  
+<a href="https://github.com/jempe/videoTagger">Video Tagger</a> Qt app to generate JSON file with info about videos.
 
 ***Mobile Apps***
   
-<a href="https://github.com/jempe/hockey_all_platforms">Air Hockey</a>: Simple game I created to learn game development. I published it on multiple stores but I didn't have time to update it so it is no longer available
+<a href="https://github.com/jempe/hockey_all_platforms">Air Hockey</a>: Simple game I created to learn game development. I published it on multiple stores but I didn't have time to update it so it is no longer available.
+
+<a href="https://github.com/jempe/flashlight">Flashlight</a> Flashlight Android app.
+  
+<a href="https://github.com/jempe/tally_counter_android">Tally Counter</a> Tally counter Android App.
 
 ***CLI utilities***
   
@@ -43,6 +56,16 @@ This repository is a collection of open source projects, and tools I found usefu
 <a href="https://github.com/jempe/servedir">ServeDir</a> Tool to easily share the content of any local folder using http.
   
 <a href="https://github.com/jempe/thumbnails">Thumbnails</a> Tool to generate thumbnails of different sizes.
+   
+<a href="https://github.com/jempe/printhttprequest">Print HTTP Request</a> Tool to inspect HTTP requests.
+  
+<a href="https://github.com/jempe/prettyjson">Pretty JSON</a> tool to pretify JSON without sorting it.
+  
+<a href="https://github.com/jempe/safeurl">Safe URL</a> Too to check if a url is safe by using google safe browsing API.
+  
+***3D Printing***
+  
+<a href="https://github.com/jempe/raspberry_pi_case">Raspberry Pi Case</a>
 
 <!--
 **jempe/jempe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
