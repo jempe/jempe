@@ -13,26 +13,36 @@ Web Development
 Mobile apps Development (iOs and Android)
 
 ## Programming Languages
-HTML
-CSS
-Javascript
-Golang
-PHP
+* HTML
+* CSS
+* Javascript
+* Golang
+* PHP
 
 If you are interested in hiring me, please send me an email to <a href="contact@jempe.org">contact@jempe.org<a>
 
 ### Repos
 This repository is a collection of open source projects, and tools I found useful on my daily professional life.
+  
+***Web Development**
+  
+<a href="https://github.com/jempe/whatsapp_button">Whats App Button</a> Script to add a Whats app button to your website
 
 ***Mobile Apps***
+  
 <a href="https://github.com/jempe/hockey_all_platforms">Air Hockey</a>: Simple game I created to learn game development. I published it on multiple stores but I didn't have time to update it so it is no longer available
 
 ***CLI utilities***
+  
 <a href="https://github.com/jempe/include_code">Include Code</a> Small tool to insert the code of one file inside another file.
+  
 <a href="https://github.com/jempe/my_public_scripts">My Public Scripts</a> Collection of bash scripts to install compile or setup programs. A real time saver when I format any computer.
+  
 <a href="https://github.com/jempe/code_generator">Code generator</a> Tool to generate code automatically from a template.
+  
 <a href="https://github.com/jempe/servedir">ServeDir</a> Tool to easily share the content of any local folder using http.
-<a href="https://github.com/jempe/thumbnails">thumbnails</a> Tool to generate thumbnails of different sizes.
+  
+<a href="https://github.com/jempe/thumbnails">Thumbnails</a> Tool to generate thumbnails of different sizes.
 
 <!--
 **jempe/jempe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
