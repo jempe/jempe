@@ -1,4 +1,4 @@
-### Hi there, I am Juan Castro
+### Hi there, I am JC
 
 I founded a small software development company named **Jempe**, and I've been working remotely for different companies since 2006. I am passionate about coding since I had my first computer, so when I am not working for clients I am working on my personal software projects. I think of coding like an art. I love the stuff I create and I try to perfect and polish every creation. I just feel that sometimes I don't have enough time to do it.
 
