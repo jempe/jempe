@@ -33,6 +33,8 @@ This repository is a collection of open source projects, and tools I found usefu
 <a href="https://github.com/jempe/mpc">MPC - My Private Collection</a> A web-based media player that enables video library management, streaming, and remote control, with built-in video scanning and a web server for content delivery.
 
 <a href="https://github.com/jempe/code_generator">Code Generator</a> A CLI tool that automates code generation from database schemas and templates, reducing repetitive coding tasks.
+
+<a href="https://github.com/jempe/whatsapp_backup">WhatsApp Backup</a> A Go-based API server for managing WhatsApp message backups with configurable database connections, rate limiting, email notifications, and scheduled tasks.
   
 ***Web Development**
   
