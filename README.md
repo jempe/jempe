@@ -80,26 +80,8 @@ This repository is a collection of open source projects, and tools I found usefu
 ***CLI utilities***
   
 <a href="https://github.com/jempe/my_public_scripts">My Public Scripts</a> Collection of bash scripts to install compile or setup programs. A real time saver when I format any computer.
-   
-<a href="https://github.com/jempe/printhttprequest">Print HTTP Request</a> Tool to inspect HTTP requests.
-  
-<a href="https://github.com/jempe/prettyjson">Pretty JSON</a> tool to pretify JSON without sorting it.
   
 ***3D Printing***
   
 <a href="https://github.com/jempe/raspberry_pi_case">Raspberry Pi Case</a>
 
-<!--
-**jempe/jempe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
