@@ -56,9 +56,11 @@ This repository is a collection of open source projects, and tools I found usefu
 
 <a href="https://github.com/jempe/printhttprequest">PrintHTTPRequest</a> is a lightweight Go application for debugging HTTP requests by printing their headers and body.
   
-**Web Development**
+**Javascript**
   
 <a href="https://github.com/jempe/whatsapp_button">Whats App Button</a> Script to add a Whats app button to your website.
+
+**PHP**
   
 <a href="https://github.com/jempe/jempecms">Jempe CMS</a> PHP content management system created with Codeigniter php framework.
  
