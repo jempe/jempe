@@ -49,6 +49,10 @@ This repository is a collection of open source projects, and tools I found usefu
 <a href="https://github.com/jempe/include_code">Include Code</a> is a Go library for seamlessly embedding the contents of one file into another at designated comment markers.
 
 <a href="https://github.com/jempe/shopping_list">Shopping List</a> is a real-time shopping list app built with the Golang QOR Framework, using WebSockets for device synchronization.
+
+<a href="https://github.com/jempe/thumbnails">Thumbnails</a> is a  Go-based tool for generating image thumbnails with customizable configurations via a JSON file.
+
+<a href="https://github.com/jempe/safeurl">Safe URL</a> is a Command line Go-based tool to verify the safety of URLs using the Google Safe Browsing API.
   
 **Web Development**
   
@@ -71,19 +75,11 @@ This repository is a collection of open source projects, and tools I found usefu
 
 ***CLI utilities***
   
-<a href="https://github.com/jempe/include_code">Include Code</a> Small tool to insert the code of one file inside another file.
-  
 <a href="https://github.com/jempe/my_public_scripts">My Public Scripts</a> Collection of bash scripts to install compile or setup programs. A real time saver when I format any computer.
-  
-<a href="https://github.com/jempe/code_generator">Code generator</a> Tool to generate code automatically from a template.
-  
-<a href="https://github.com/jempe/thumbnails">Thumbnails</a> Tool to generate thumbnails of different sizes.
    
 <a href="https://github.com/jempe/printhttprequest">Print HTTP Request</a> Tool to inspect HTTP requests.
   
 <a href="https://github.com/jempe/prettyjson">Pretty JSON</a> tool to pretify JSON without sorting it.
-  
-<a href="https://github.com/jempe/safeurl">Safe URL</a> Too to check if a url is safe by using google safe browsing API.
   
 ***3D Printing***
   
