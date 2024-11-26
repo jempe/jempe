@@ -55,6 +55,10 @@ This repository is a collection of open source projects, and tools I found usefu
 <a href="https://github.com/jempe/safeurl">Safe URL</a> is a Command line Go-based tool to verify the safety of URLs using the Google Safe Browsing API.
 
 <a href="https://github.com/jempe/printhttprequest">PrintHTTPRequest</a> is a lightweight Go application for debugging HTTP requests by printing their headers and body.
+
+**Google Tag Manager Template**
+
+<a href="https://github.com/nantuapp/nantu-gtm-template">Nantu AB Test GTM Template</a> is an open-source, modular A/B testing solution that offers precise user targeting, unlimited variations, and advanced management features while ensuring seamless integration and robust QA testing.
   
 **Javascript**
   
