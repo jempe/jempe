@@ -35,6 +35,8 @@ This repository is a collection of open source projects, and tools I found usefu
 <a href="https://github.com/jempe/code_generator">Code Generator</a> A CLI tool that automates code generation from database schemas and templates, reducing repetitive coding tasks.
 
 <a href="https://github.com/jempe/whatsapp_backup">WhatsApp Backup</a> A Go-based API server for managing WhatsApp message backups with configurable database connections, rate limiting, email notifications, and scheduled tasks.
+
+<a href="https://github.com/jempe/text_splitter">Text Splitter</a> A Go library for splitting strings into smaller chunks based on specified lengths and optional delimiters.
   
 ***Web Development**
   
