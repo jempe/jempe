@@ -41,6 +41,8 @@ This repository is a collection of open source projects, and tools I found usefu
 <a href="https://github.com/jempe/capture_fields">Captured Data Service</a> A Golang-based web service for capturing, validating, and storing user input data in a BoltDB database, with export functionality to CSV.
 
 <a href="https://github.com/jempe/gopicam">GoPiCam</a> is a lightweight, Golang-based web interface for managing Raspberry Pi cameras, offering secure access, user authentication, and features like recording, motion detection, and timelapse without requiring PHP or a database.
+
+<a href="https://github.com/jempe/spy_camera">Spy Camera</a> A Go-based surveillance system that uses OpenCV and GoCV to turn your PC into a motion-detecting camera, saving videos locally when activity is detected.
   
 **Web Development**
   
