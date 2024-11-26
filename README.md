@@ -27,6 +27,9 @@ This repository is a collection of open source projects, and tools I found usefu
 **GoLang**
 
 <a href="https://github.com/jempe/gitlfslite">GitLFSLite</a> A lightweight tool for managing large files in Git repositories by using metadata text files and rsync to simplify synchronization, offering a practical alternative to Git LFS and Git Annex.
+
+<a href="https://github.com/jempe/shasums_duplicates">shasums_duplicates</a> A Bash and Golang utility for detecting and managing duplicate files by generating, comparing, and processing sorted hash lists.
+
   
 ***Web Development**
   
