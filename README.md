@@ -23,6 +23,10 @@ If you are interested in hiring me, please send me an email to <a href="contact@
 
 ### Repos
 This repository is a collection of open source projects, and tools I found useful on my daily professional life.
+
+**GoLang**
+
+<a href="https://github.com/jempe/gitlfslite">GitLFSLite</a> A lightweight tool for managing large files in Git repositories by using metadata text files and rsync to simplify synchronization, offering a practical alternative to Git LFS and Git Annex.
   
 ***Web Development**
   
