@@ -45,6 +45,8 @@ This repository is a collection of open source projects, and tools I found usefu
 <a href="https://github.com/jempe/spy_camera">Spy Camera</a> A Go-based surveillance system that uses OpenCV and GoCV to turn your PC into a motion-detecting camera, saving videos locally when activity is detected.
 
 <a href="https://github.com/jempe/servedir">serveDir</a> A lightweight HTTP server for sharing static files seamlessly across devices on the same network.
+
+<a href="https://github.com/jempe/include_code">Include Code</a> is a Go library for seamlessly embedding the contents of one file into another at designated comment markers.
   
 **Web Development**
   
