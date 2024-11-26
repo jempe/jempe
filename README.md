@@ -13,10 +13,8 @@ I am a full stack developer but I've focused on A/B Testing since 2014. I've cre
 * Mobile apps Development (iOs and Android)
 
 ## Programming Languages
-* HTML
-* CSS
-* Javascript
 * Golang
+* Javascript
 * PHP
 
 If you are interested in hiring me, please send me an email to <a href="contact@jempe.org">contact@jempe.org<a>.
