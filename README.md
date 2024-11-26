@@ -53,6 +53,8 @@ This repository is a collection of open source projects, and tools I found usefu
 <a href="https://github.com/jempe/thumbnails">Thumbnails</a> is a  Go-based tool for generating image thumbnails with customizable configurations via a JSON file.
 
 <a href="https://github.com/jempe/safeurl">Safe URL</a> is a Command line Go-based tool to verify the safety of URLs using the Google Safe Browsing API.
+
+<a href="https://github.com/jempe/printhttprequest">PrintHTTPRequest</a> is a lightweight Go application for debugging HTTP requests by printing their headers and body.
   
 **Web Development**
   
