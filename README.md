@@ -1,8 +1,10 @@
 ### Hi there, I am JC
 
-I founded a small software development company named **Jempe**, and I've been working remotely for different companies since 2006. I am passionate about coding since I had my first computer, so when I am not working for clients I am working on my personal software projects. I think of coding like an art. I love the stuff I create and I try to perfect and polish every creation. I just feel that sometimes I don't have enough time to do it.
+I founded a small software development company named **Jempe** and have been working remotely for different companies since 2006. My passion for coding started with my first computer, and it has only grown since. When I'm not working for clients, I dedicate my time to personal software projects, treating coding as an art form. I strive to perfect and polish every creation, though I often wish for more time to refine them further.
 
-I am a full stack developer but I've focused on A/B Testing since 2014. I've created hundreds of A/B tests for a lot of e-commerce websites using tools like **VWO, Optimizely, Google optimize, Google Tag Manager and Tealium** 
+As a full-stack developer, I have focused on **A/B Testing** since 2014, crafting hundreds of experiments for e-commerce websites using tools like VWO, Optimizely, Google Optimize, Google Tag Manager, and Tealium.
+
+I take pride in writing clean, efficient code and prioritize simplicity and security in my work. **Golang** is my favorite language, and I prefer **Vanilla JavaScript** over frameworks for its flexibility and control. I actively avoid unnecessary dependencies to ensure easier maintenance and better software security.
 
 ## I offer the following Services:
 
