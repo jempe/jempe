@@ -39,12 +39,12 @@ This repository is a collection of open source projects, and tools I found usefu
 <a href="https://github.com/jempe/text_splitter">Text Splitter</a> A Go library for splitting strings into smaller chunks based on specified lengths and optional delimiters.
 
 <a href="https://github.com/jempe/capture_fields">Captured Data Service</a> A Golang-based web service for capturing, validating, and storing user input data in a BoltDB database, with export functionality to CSV.
+
+<a href="https://github.com/jempe/gopicam">GoPiCam</a> is a lightweight, Golang-based web interface for managing Raspberry Pi cameras, offering secure access, user authentication, and features like recording, motion detection, and timelapse without requiring PHP or a database.
   
-***Web Development**
+**Web Development**
   
 <a href="https://github.com/jempe/whatsapp_button">Whats App Button</a> Script to add a Whats app button to your website.
-  
-<a href="https://github.com/jempe/gopicam">GoPiCam</a> Web client for RaspiMJPEG. Share the images from your Raspberry Pi Camera through the network.
   
 <a href="https://github.com/jempe/jempecms">Jempe CMS</a> PHP content management system created with Codeigniter php framework.
  
