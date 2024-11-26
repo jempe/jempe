@@ -30,6 +30,7 @@ This repository is a collection of open source projects, and tools I found usefu
 
 <a href="https://github.com/jempe/shasums_duplicates">shasums_duplicates</a> A Bash and Golang utility for detecting and managing duplicate files by generating, comparing, and processing sorted hash lists.
 
+<a href="https://github.com/jempe/mpc">MPC - My Private Collection</a> A web-based media player that enables video library management, streaming, and remote control, with built-in video scanning and a web server for content delivery.
   
 ***Web Development**
   
