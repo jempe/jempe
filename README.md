@@ -37,6 +37,8 @@ This repository is a collection of open source projects, and tools I found usefu
 <a href="https://github.com/jempe/whatsapp_backup">WhatsApp Backup</a> A Go-based API server for managing WhatsApp message backups with configurable database connections, rate limiting, email notifications, and scheduled tasks.
 
 <a href="https://github.com/jempe/text_splitter">Text Splitter</a> A Go library for splitting strings into smaller chunks based on specified lengths and optional delimiters.
+
+<a href="https://github.com/jempe/capture_fields">Captured Data Service</a> A Golang-based web service for capturing, validating, and storing user input data in a BoltDB database, with export functionality to CSV.
   
 ***Web Development**
   
