@@ -43,6 +43,8 @@ This repository is a collection of open source projects, and tools I found usefu
 <a href="https://github.com/jempe/gopicam">GoPiCam</a> is a lightweight, Golang-based web interface for managing Raspberry Pi cameras, offering secure access, user authentication, and features like recording, motion detection, and timelapse without requiring PHP or a database.
 
 <a href="https://github.com/jempe/spy_camera">Spy Camera</a> A Go-based surveillance system that uses OpenCV and GoCV to turn your PC into a motion-detecting camera, saving videos locally when activity is detected.
+
+<a href="https://github.com/jempe/servedir">serveDir</a> A lightweight HTTP server for sharing static files seamlessly across devices on the same network.
   
 **Web Development**
   
@@ -70,8 +72,6 @@ This repository is a collection of open source projects, and tools I found usefu
 <a href="https://github.com/jempe/my_public_scripts">My Public Scripts</a> Collection of bash scripts to install compile or setup programs. A real time saver when I format any computer.
   
 <a href="https://github.com/jempe/code_generator">Code generator</a> Tool to generate code automatically from a template.
-  
-<a href="https://github.com/jempe/servedir">ServeDir</a> Tool to easily share the content of any local folder using http.
   
 <a href="https://github.com/jempe/thumbnails">Thumbnails</a> Tool to generate thumbnails of different sizes.
    
