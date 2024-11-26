@@ -47,6 +47,8 @@ This repository is a collection of open source projects, and tools I found usefu
 <a href="https://github.com/jempe/servedir">serveDir</a> A lightweight HTTP server for sharing static files seamlessly across devices on the same network.
 
 <a href="https://github.com/jempe/include_code">Include Code</a> is a Go library for seamlessly embedding the contents of one file into another at designated comment markers.
+
+<a href="https://github.com/jempe/shopping_list">Shopping List</a> is a real-time shopping list app built with the Golang QOR Framework, using WebSockets for device synchronization.
   
 **Web Development**
   
