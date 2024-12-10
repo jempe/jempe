@@ -1,6 +1,6 @@
 ### Hi there, I am JC
 
-I founded a small software development company named **Jempe** and have been working remotely for different companies since 2006. My passion for coding started with my first computer, and it has only grown since. When I'm not working for clients, I dedicate my time to personal software projects, treating coding as an art form. I strive to perfect and polish every creation, though I often wish for more time to refine them further.
+I have been working remotely for different companies since 2006. My passion for coding started with my first computer, and it has only grown since. When I'm not working for clients, I dedicate my time to personal software projects, treating coding as an art form. I strive to perfect and polish every creation, though I often wish for more time to refine them further.
 
 As a full-stack developer, I have focused on **A/B Testing** since 2014, crafting hundreds of experiments for e-commerce websites using tools like VWO, Optimizely, Google Optimize, Google Tag Manager, and Tealium.
 
